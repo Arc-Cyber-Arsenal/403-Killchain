@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rawgithubusercontent.com/Arc-Cyber-Arsenal/403-Killchain/master/killchain.png" alt="403-Killchain Banner" width="600">
+  <img src="https://raw.githubusercontent.com/Arc-Cyber-Arsenal/403-Killchain/master/killchain.png" alt="403-Killchain Banner" width="600">
 </p>
 
 # 🔗 403-Killchain
